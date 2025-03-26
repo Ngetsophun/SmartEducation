@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078355761574",
+    "project_id": "creative-innovation-center",
+    "storage_bucket": "creative-innovation-center.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078355761574:android:8a15d1b1adeebe0d5a5767",
+        "android_client_info": {
+          "package_name": "com.example.smartedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuDkxOLzqNrahGa3hl75IPvWMboS3_6zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
